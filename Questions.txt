@@ -1,0 +1,4 @@
+(1)Given an array of N integers, write a function that returns True if there is a pythagorean triplet that
+   satisfy (a^2 + b^2 = c^2).
+(2)Given an array of N positive integers, find the equilibrium point in the array. Euilibrium point in
+   an array is a position such that sum  of elements before it is equal to the sum of the elements after it.
