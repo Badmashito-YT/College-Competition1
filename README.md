@@ -1,5 +1,7 @@
 # College-Comp-Questions
-**In this repo I have shared all the resources(questions,my answersheet,my final solution program,etc).
-This repo is created to store some of my coding competition memories.**
+**This repo is created to store some of my coding competition memories.**
+In this repo I have shared all the resources(questions,my answersheet and my final solution,etc).
+
+
 Thank You
 
